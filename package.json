@@ -1,7 +1,7 @@
 {
   "name": "GeoJSON2PNG",
   "version": "1.0.0",
-  "description": "GeoJSON to PNG converter playground",
+  "description": "GeoJSON to PNG converter playground.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon server/server.js --ignore src/",
